@@ -21,3 +21,15 @@
 .highlight {
     background-color: yellow;
 }
+
+.card-list {
+    float: left;
+    border: 2px solid grey;
+    margin: 10px 20px;
+}
+
+.card {
+    margin: 5px;
+    border: 1px solid darkgray;
+    padding: 2px;
+}
